@@ -1,5 +1,5 @@
 # Self-supervised-image-classification-in-vehicle
-#Abstrat
+**Abstrat**
 Self-supervised deep learning approach for automated vehicle image classifi-
 cation, addressing the challenge of limited labeled data in large-scale datasets.
 The method combines Convolutional Neural Networks (CNNs) for extracting
@@ -16,5 +16,5 @@ autonomous driving, traffic monitoring, and intelligent transportation systems,
 reducing reliance on labeled datasets. This approach highlights the growing
 potential of self-supervised learning in real-world applications.
 
-Keywords: Moco, SimCLR, image classifier, Contrastive Learning, Deep
+**Keywords:** Moco, SimCLR, image classifier, Contrastive Learning, Deep
 Learning, Convolutional Neural Network(CNN), and Self-supervised Learning.
